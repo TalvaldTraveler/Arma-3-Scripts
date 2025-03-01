@@ -5,6 +5,7 @@ class CfgFunctions {
             file = "functions\qrf";
             class planParaRed;
             class Airborn;
+            class Airborn_Heli;
             class Marine;
             class APC;
             class SniperHunters;
